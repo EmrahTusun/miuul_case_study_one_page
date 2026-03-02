@@ -1,1 +1,1 @@
-#Miuul One page
+# Miuul One Page (SPA)
